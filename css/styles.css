@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html {
+    margin:0;
+    padding:0;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    max-width:960px;
+    margin: 0 auto;
+    padding:25px;
+}
+.margin-top-none{
+    margin-top:0;
+}
+.margin-bottom-none{
+    margin-bottom:0;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+a:link, a:visited{
+    color: #000;
+}
+a:hover, a:focus{
+    color:#aeaeae
+}
+h1, h2, h3{
+    text-align: center;
+}
+h4 {
+    font-size:1.1em;
+}
+.year {
+    font-size:.75em;
+    font-style: italic;
+}
