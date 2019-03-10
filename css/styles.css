@@ -72,10 +72,12 @@ h1, h2, h3 {
 
 h4 {
    font-size: 1.1em;
+   color:#005A5B;
 }
 
 .profile {
    border-radius: 100px;
+   max-width: 175px;
 }
 
 .year {
